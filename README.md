@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ferdy agustian prasetyo</h1>
 <h3 align="center">A passionate AI Engineer from Indonesia</h3>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ4emlqb2VpMnFqYTVpMDVscGs4bmZzNDV3b3hhem12aXp1ajZtZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUNd9VlzCHOF72g4AU/giphy.gif" alt="Coding Animation" width="500" />
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdyagustian&label=Profile%20views&color=0e75b6&style=flat" alt="ferdyagustian" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferdyagustian" alt="ferdyagustian" /></a> </p>
