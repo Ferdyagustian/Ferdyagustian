@@ -6,8 +6,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ferdyagustian">
-    <img src="https://komarev.com/ghpvc/?username=ferdyagustian&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ferdyagustian&theme=radical&margin-w=15&no-frame=true&column=-1&title=Commits,MultiLanguage,Repositories" alt="GitHub Trophies" />
   </a>
 </div>
 <br>
