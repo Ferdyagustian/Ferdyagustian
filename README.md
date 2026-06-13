@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ferdy Agustian Prasetyo</h1>
-<h3 align="center">A passionate AI Engineer from Indonesia</h3>
+<h1 align="center">Ferdy agustian prasetyo</h1>
+<h3 align="center">A Passionate Computer Nerds from Indonesia</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ4emlqb2VpMnFqYTVpMDVscGs4bmZzNDV3b3hhem12aXp1ajZtZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUNd9VlzCHOF72g4AU/giphy.gif" alt="Coding Animation" width="500" />
@@ -7,9 +7,10 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ferdyagustian&theme=radical&margin-w=15&no-frame=true&column=-1&title=Commits,MultiLanguage,Repositories" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ferdyagustian&theme=radical&margin-w=15&no-frame=true&column=-1&title=Commits,Repositories" alt="GitHub Trophies" />
   </a>
 </div>
+
 <br>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
