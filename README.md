@@ -1,5 +1,5 @@
 <h1 align="center">Ferdy agustian prasetyo</h1>
-<h3 align="center">A Passionate Computer Nerds from Indonesia :></h3>
+<h3 align="center">A Passionate Computer Nerds from Indonesia :>></h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ4emlqb2VpMnFqYTVpMDVscGs4bmZzNDV3b3hhem12aXp1ajZtZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUNd9VlzCHOF72g4AU/giphy.gif" alt="Coding Animation" width="500" />
