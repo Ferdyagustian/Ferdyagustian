@@ -22,9 +22,9 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on my [Interactive Portfolio Website](https://slowwalkferdy.vercel.app/)
+- 🔭 I’m currently working on my [Interactive Portfolio Website](https://slowwalkferdy.site/)
 - 🌱 I’m currently diving deep into **AI Automation, Machine Learning, and Cryptography**
-- 👨‍💻 Check out my latest projects at [slowwalkferdy.vercel.app](https://slowwalkferdy.vercel.app/)
+- 👨‍💻 Check out my latest projects at [slowwalkferdy.vercel.app](https://slowwalkferdy.site/)
 - 💬 Ask me about **Artificial Intelligence, Database Architecture, or Life!**
 - 📫 How to reach me: **agustianprasetyoferdy@gmail.com**
 - ⚡ Fun fact: **I think I am a highly creative person**
