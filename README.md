@@ -1,10 +1,9 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&text=Ferdy%20Agustian%20Prasetyo&fontColor=e6edf3&fontSize=38&fontAlignY=45&desc=Computer%20nerd%20%C2%B7%20AI%20enthusiast%20%C2%B7%20Building%20things%20end-to-end&descFontColor=8b949e&descSize=16&descAlignY=70" width="100%" />
-
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ4emlqb2VpMnFqYTVpMDVscGs4bmZzNDV3b3hhem12aXp1ajZtZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUNd9VlzCHOF72g4AU/giphy.gif" alt="Coding" width="260" />
-<br/>
 
+<br/>
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-slowwalkferdy.site-111111?style=flat-square&logo=vercel&logoColor=white)](https://slowwalkferdy.site/)
@@ -80,8 +79,15 @@ Currently building my [interactive portfolio](https://slowwalkferdy.site/). Happ
 ## GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ferdyagustian&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferdyagustian&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" width="40%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ferdyagustian&theme=github_dark" width="32%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ferdyagustian&theme=github_dark" width="32%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ferdyagustian&theme=github_dark" width="32%" alt="Most Commit Language" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ferdyagustian&theme=github_dark" width="96%" alt="Profile Details" />
 </div>
 
 <br/>
@@ -92,14 +98,8 @@ Currently building my [interactive portfolio](https://slowwalkferdy.site/). Happ
 
 ---
 
-## Trophies
+## Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ferdyagustian&theme=gitdimmed&no-frame=true&row=1&column=6&margin-w=12&margin-h=8" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>Thanks for stopping by — feel free to reach out.</sub>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ferdyagustian&theme=github-compact&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true" width="96%" alt="Contribution Activity Graph" />
 </div>
