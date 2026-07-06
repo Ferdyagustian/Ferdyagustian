@@ -1,0 +1,38 @@
+name: Update GitHub Stats SVG
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # setiap 6 jam
+  workflow_dispatch:         # bisa dijalankan manual dari tab Actions
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Download stats card
+        run: |
+          curl -sf "https://github-readme-stats.vercel.app/api?username=Ferdyagustian&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=6e7681" -o stats.svg || echo "stats.svg gagal diunduh, tetap pakai versi lama"
+
+      - name: Download top languages card
+        run: |
+          curl -sf "https://github-readme-stats.vercel.app/api/top-langs?username=Ferdyagustian&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=8" -o top-langs.svg || echo "top-langs.svg gagal diunduh, tetap pakai versi lama"
+
+      - name: Download streak card
+        run: |
+          curl -sf "https://github-readme-streak-stats.herokuapp.com/?user=Ferdyagustian&hide_border=true&background=0d1117&ring=6e7681&fire=ffffff&currStreakLabel=ffffff" -o streak.svg || echo "streak.svg gagal diunduh, tetap pakai versi lama"
+
+      - name: Download trophy card
+        run: |
+          curl -sf "https://github-profile-trophy.vercel.app/?username=Ferdyagustian&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=6" -o trophy.svg || echo "trophy.svg gagal diunduh, tetap pakai versi lama"
+
+      - name: Commit & push jika ada perubahan
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats.svg top-langs.svg streak.svg trophy.svg
+          git diff --staged --quiet || (git commit -m "chore: update stats SVG" && git push)
