@@ -2,6 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&text=Ferdy%20Agustian%20Prasetyo&fontColor=e6edf3&fontSize=38&fontAlignY=45&desc=Computer%20nerd%20%C2%B7%20AI%20enthusiast%20%C2%B7%20Building%20things%20end-to-end&descFontColor=8b949e&descSize=16&descAlignY=70" width="100%" />
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ4emlqb2VpMnFqYTVpMDVscGs4bmZzNDV3b3hhem12aXp1ajZtZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUNd9VlzCHOF72g4AU/giphy.gif" alt="Coding" width="260" />
+<br/>
+
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-slowwalkferdy.site-111111?style=flat-square&logo=vercel&logoColor=white)](https://slowwalkferdy.site/)
