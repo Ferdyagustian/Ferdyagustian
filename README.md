@@ -9,6 +9,10 @@ Jakarta, Indonesia 🇮🇩
 [![Email](https://img.shields.io/badge/Email-agustianprasetyoferdy%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:agustianprasetyoferdy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/username_anda)
 
+<br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ4emlqb2VpMnFqYTVpMDVscGs4bmZzNDV3b3hhem12aXp1ajZtZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUNd9VlzCHOF72g4AU/giphy.gif" alt="Coding" width="260" />
+
 </div>
 
 <br>
