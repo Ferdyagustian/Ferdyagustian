@@ -20,7 +20,7 @@
 
 I like turning ambiguous problems into systems that actually run — whether that's an ML pipeline, a piece of infrastructure, or an interface someone enjoys using. Most of my time lately goes into **AI automation**, **machine learning**, and **applied cryptography**, with enough frontend and backend range to ship the whole thing myself when needed.
 
-Currently building my [interactive portfolio](https://slowwalkferdy.site/). Happy to talk about AI systems, database design, or life in general.
+Currently building my [interactive portfolio](https://slowwalkferdy.site/). Happy to talk about AI systems, database design, or life in general :>.
 
 ---
 
