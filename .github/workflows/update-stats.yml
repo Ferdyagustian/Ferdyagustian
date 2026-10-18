@@ -2,8 +2,8 @@ name: Update GitHub Stats SVG
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # setiap 6 jam
-  workflow_dispatch:         # bisa dijalankan manual dari tab Actions
+    - cron: '0 0 */18 * *'  # Setiap 18 hari (tanggal 1 dan 19 setiap bulan pukul 00:00 UTC / 07:00 WIB)
+  workflow_dispatch:        # Bisa dijalankan manual dari tab Actions
 
 jobs:
   update-stats:
